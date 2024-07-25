@@ -33,3 +33,29 @@ if is_male and is_tall:
 else:
     print("You are either not tall or not male or both ")
 ----------------------output/ you are a tall male 
+elif
+===
+is_male = True
+is_tall = True
+
+if is_male and is_tall:
+    print("you are a tall male ")
+elif is_male and not(is_tall):
+    print("you are a short male")
+elif not(is_male) and is_tall:
+    print("you are a short female")
+else:
+    print("You are not male and not a tall  ")
+-----------------------------------------output/you are a tall male 
+is_male = False
+is_tall = True
+---------------------------------------output/you are a short female
+is_male = True
+is_tall = False
+---------------------------------------output/you are a short male
+is_male = False
+is_tall = False
+----------------------------------------output/You are not male and not a tall
+
+
+
