@@ -33,3 +33,8 @@ print(phrase[0])  # to access latters
 print(phrase[3])
 print(phrase[7])
 print(phrase[8])
+
+passing variable
+=============
+phrase = "Giraffe Academy"
+print(phrase.index("A"))  # passing variable
