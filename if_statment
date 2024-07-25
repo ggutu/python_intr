@@ -55,9 +55,18 @@ is_tall = False
 ---------------------------------------output/you are a short male
 is_male = False
 is_tall = False
-==============================================================================================
-if statement and coparizen statment
 ----------------------------------------output/You are not male and not a tall
+==============================================================================================
 
-
+if statement and coparizen statment
+====================================
+def x_num(num1,num2,num3):
+    if num1 >= num2 and num1 >= num3:
+        return num1
+    elif num2 >= num1 and num2 >= num3:
+        return num2
+    else:
+        return num3
+print(x_num(3,40,5))
+-----------------------------------output/40
 
