@@ -59,3 +59,16 @@ print(max(8,3))
 print(round(9.63))
 from math import *  #In Python, the import statement is used to bring in code from other modules into the current namespace. The import * syntax imports all public objects, such as classes, functions, and variables from the specified module into the current namespace
 print(sqrt(9.63))
+===================
+name = input("Enter your name: ")
+Print("hello " + name + "!") 
+Out put Gutu
+
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+print("Hello " + name + "! you are " + age)
+output :
+Enter your age: 56
+Hello Gutu! you are 56
+
+
