@@ -30,4 +30,9 @@ print(friends)
 lucky_numbers = [4,8,15,16,23,24]
 friends = ["kevin","Kena", "karen", "jim","Gutu", "mark"]
 print(friends.index("jim"))    #to get index on the list
+print(friends.count("jim"))  # number of times jim
+alphabeticall order
+friends = ["kevin","Kena", "karen", "jim","Gutu", "mark"]
+friends.sort()
+print(friends)
 
