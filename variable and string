@@ -46,6 +46,16 @@ print(phrase.index("A"))  #  passing variable where it is ?
 phrase = "Giraffe Academy"
 print(phrase.index("aff"))  # passing variable where it is ?
 absolute value
+===
 my_num = -5
 print(abs(my_num))
-
+===
+power, max
+=====
+my_num = -5
+print(abs(my_num))
+print(pow(8,3))
+print(max(8,3))
+print(round(9.63))
+from math import *  #In Python, the import statement is used to bring in code from other modules into the current namespace. The import * syntax imports all public objects, such as classes, functions, and variables from the specified module into the current namespace
+print(sqrt(9.63))
