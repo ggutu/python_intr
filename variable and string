@@ -86,7 +86,7 @@ result = float(num1) + float(num2)
 print(result)
 ===
 List use to store multiple value inside-dealing with large amount of data value
-list[}
+list[]
 
 
 
