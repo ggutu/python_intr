@@ -55,6 +55,8 @@ is_tall = False
 ---------------------------------------output/you are a short male
 is_male = False
 is_tall = False
+==============================================================================================
+if statement and coparizen statment
 ----------------------------------------output/You are not male and not a tall
 
 
