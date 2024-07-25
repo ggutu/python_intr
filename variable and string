@@ -45,4 +45,7 @@ phrase = "Giraffe Academy"
 print(phrase.index("A"))  #  passing variable where it is ?
 phrase = "Giraffe Academy"
 print(phrase.index("aff"))  # passing variable where it is ?
+absolute value
+my_num = -5
+print(abs(my_num))
 
