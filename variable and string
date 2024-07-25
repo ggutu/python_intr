@@ -24,3 +24,12 @@ print(phrase.upper()) #make it capital
 print(word.lower()) #make it lower
 print(word.islower()) # check if the string is lower latter  or not.
 print(word.lower().islower()) #change to lower and check lower  #Out is true or false
+len
+==
+phrase = "Giraffe Academy"
+print(len(phrase))  # length of character
+phrase = "Giraffe Academy"
+print(phrase[0])  # to access latters 
+print(phrase[3])
+print(phrase[7])
+print(phrase[8])
