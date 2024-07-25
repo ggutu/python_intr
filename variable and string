@@ -79,5 +79,9 @@ result = int(num1) + int(num2) =intiger number
 print(result)
 out put 
 3 then 4 =7
-
+=====float  Inorder to use decimal number
+num1 = input("Enter a number: ")
+num2= input("Enter another  number: ")
+result = float(num1) + float(num2)
+print(result)
 
