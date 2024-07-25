@@ -35,4 +35,14 @@ alphabeticall order
 friends = ["kevin","Kena", "karen", "jim","Gutu", "mark"]
 friends.sort()
 print(friends)
-
+lacky number
+===
+lucky_numbers = [4,8,15,16,23,24]
+friends = ["kevin","Kena", "karen", "jim","Gutu", "mark"]
+lucky_numbers.reverse()
+print(lucky_numbers)
+====================
+Tuple
+coordinates = (4,5) # immutable-you cannot change
+print(coordinates[1])
+list and tuple difference is tuple cannot change and use() while list you can change and use []
