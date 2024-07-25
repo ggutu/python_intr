@@ -20,7 +20,7 @@ capital and small latter
 ===============
 phrase = "Giraffe Academy"
 word  = "PayTHON IS a PROGRAMING LANGUAGE"
-print(phrase.upper())
-print(word.lower())
+print(phrase.upper()) #make it capital
+print(word.lower()) #make it lower
 print(word.islower()) # check if the string is lower latter  or not.
-print(word.lower().islower()) #change to lower and check lower 
+print(word.lower().islower()) #change to lower and check lower  #Out is true or false
