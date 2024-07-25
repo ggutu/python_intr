@@ -6,10 +6,24 @@ print(friends)
 output
 ['kevin', 'Kena', 'karen', 'jim', 'Gutu', 'mark', 4, 8, 15, 16, 23, 24]
 ====
-append
+append -add name
 lucky_numbers = [4,8,15,16,23,24]
 friends = ["kevin","Kena", "karen", "jim","Gutu", "mark"]
 friends.append("Gutu")
 print(friends)
 output
 ['kevin', 'Kena', 'karen', 'jim', 'Gutu', 'mark', 'Gutu']
+insert -
+lucky_numbers = [4,8,15,16,23,24]
+friends = ["kevin","Kena", "karen", "jim","Gutu", "mark"]
+friends.insert(1,"Hawi")
+print(friends)
+['kevin', 'Hawi', 'Kena', 'karen', 'jim', 'Gutu', 'mark']
+
+friends.remove("karen") #remove specfic from the list
+print(friends)
+friends.clear("karen") #get red of all the list
+print(friends)
+friends.pop()  #list last element on the list
+print(friends)
+
