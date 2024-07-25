@@ -23,5 +23,10 @@ say_hi("Miran")
 =output
 Hello Mike
 Hello Miran
-
+return statment
+====
+def cube(num):
+   return num*num*num
+result = cube(4)
+print(result)
 
