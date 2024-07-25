@@ -5,3 +5,24 @@ if is_male:
 else:
     print("You are Female")
 out put:You are Female
+=====================
+
+is_male = True
+is_tall = False
+
+if is_male or is_tall:
+    print("you are a male or tall or both ")
+else:
+    print("You neither male nor tall")
+output--
+you are a male or tall or both
+========================
+is_male = True
+is_tall = False
+
+if is_male and is_tall:
+    print("you are a male or tall or both ")
+else:
+    print("You neither male nor tall")
+output
+You neither male nor tall
