@@ -17,12 +17,13 @@ else:
 output--
 you are a male or tall or both
 ========================
-is_male = True
-is_tall = False
+
+is_male = False
+is_tall = True
 
 if is_male and is_tall:
-    print("you are a male or tall or both ")
+    print("you are a tall male ")
 else:
-    print("You neither male nor tall")
-output
-You neither male nor tall
+    print("You are either tall or male")
+output--
+You are either tall or male
