@@ -87,6 +87,9 @@ print(result)
 ===
 List use to store multiple value inside-dealing with large amount of data value
 list[]
-
+friends = ["kevin", "karen", "jim"]
+             0        1        2
+print(friends)  #list all of them 
+print(friends[2])#list by index
 
 
