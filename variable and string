@@ -15,3 +15,12 @@ concatination
 ==========
 phrase = "Giraffe Academy"
 print(phrase + " is cool" )
+
+capital and small latter
+===============
+phrase = "Giraffe Academy"
+word  = "PayTHON IS a PROGRAMING LANGUAGE"
+print(phrase.upper())
+print(word.lower())
+print(word.islower()) # check if the string is lower latter  or not.
+print(word.lower().islower()) #change to lower and check lower 
