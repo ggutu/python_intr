@@ -1,2 +1,9 @@
 def is a function in python
 def say_hi():   all the code after this line inside of function
+=====indentations and not excute becoaus of not called
+def say_hi():
+    print("Hello User")
+=============================excuted becoaus it called 
+def say_hi():
+    print("Hello User")
+say_hi()  # colling the function
