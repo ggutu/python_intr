@@ -38,3 +38,11 @@ passing variable
 =============
 phrase = "Giraffe Academy"
 print(phrase.index("A"))  # passing variable
+
+passing variable 
+=====================
+phrase = "Giraffe Academy"
+print(phrase.index("A"))  #  passing variable where it is ?
+phrase = "Giraffe Academy"
+print(phrase.index("aff"))  # passing variable where it is ?
+
