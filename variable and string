@@ -1,9 +1,10 @@
 Variable
 ============
-character_name = "Gutu"   #string
-character_age = 50.56
-is_Male = False  # boolean no quotations
- character_age = "55"
+# character_name = "Gutu"   #string
+# character_age = 50.56
+# is_Male = False  # boolean no quotations
+character_age = "55"
+character_name = "Gutu"
 print("There once was a man named "  + character_name + ",")
 print("He was "  + character_name + ",")
 character_name = "Mike"
