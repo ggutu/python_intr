@@ -11,3 +11,13 @@ print(monthConversions["Jan"])
 ------------------------------------------output/below
 February
 January
+
+otherway explain dictionaries 
+======================using .get
+print(monthConversions.get("Feb")) #.get
+print(monthConversions.get("Ap"))#.get
+print(monthConversions.get("Luv",  "invalide value"))  #passing new value 
+--------------------------------------output/below
+February
+Aprile
+invalide value
