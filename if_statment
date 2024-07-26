@@ -91,3 +91,15 @@ Enter operater:   *
 Enter second number:   6
 30.0
 if you put wrong operater like ^ $ through error
+===============================================
+#while loop #specified black of code multiple time
+i = 1
+while i <= 10:  #condition
+    print(i)
+    i += 1
+#print("Done with loop")
+--------------------------------outpu/1,2,3,4,5,6,7,8,9,10,
+so when added print("Done with loop")
+------------------------------------outpu/1,2,3,4,5,6,7,8,9,10,Done with loop
+
+
