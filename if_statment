@@ -101,5 +101,38 @@ while i <= 10:  #condition
 --------------------------------outpu/1,2,3,4,5,6,7,8,9,10,
 so when added print("Done with loop")
 ------------------------------------outpu/1,2,3,4,5,6,7,8,9,10,Done with loop
-
-
+game guess
+==================
+secret_word = "giraffe"
+guess = ""
+while guess != secret_word:
+    guess = input("Enter guess: ")
+print("you win!")
+-------------------------------------------output
+Enter guess: good
+Enter guess: gutu
+Enter guess: giraffe
+you win!
+game
+========================================
+secret_word = "giraffe"
+guess = ""
+guess_count = 0 #count number of time
+guess_limit  = 3
+out_of_guesses = False
+while guess != secret_word and not(out_of_guesses):
+    if guess_count < guess_limit:
+       guess = input("Enter guess: ")
+       guess_count  += 1
+    else:
+        out_of_guesses = True
+if out_of_guesses:
+    print("out of Guesse, You Lose!")
+else:
+    print("You win")
+----------------------------------------
+Enter guess: Excellent
+Enter guess: Good Work
+Enter guess: Wonderfull
+out of Guesse, You Lose!
+======================================
