@@ -1,1 +1,5 @@
+For loop used for loop in different item ,serius of numbers
 
+The for loop is used when you want to iterate
+over a sequence (such as a list, tuple, string, or range)
+in a predictable order.
