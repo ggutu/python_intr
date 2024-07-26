@@ -60,7 +60,7 @@ is_tall = False
 
 if statement and coparizen statment
 ====================================
-def x_num(num1,num2,num3):
+def x_num(num1,num2,num3):                 #instead of x_max you can put any variable like max_num 
     if num1 >= num2 and num1 >= num3:
         return num1
     elif num2 >= num1 and num2 >= num3:
@@ -70,3 +70,24 @@ def x_num(num1,num2,num3):
 print(x_num(3,40,5))
 -----------------------------------output/40
 
+more coplex calculoters
+num1 = float(input("Enter first number:   "))
+op = input("Enter operater:   ")
+num2 = float(input("Enter second number:   "))
+
+if op == "+":
+    print(num1 + num2)
+elif op == "-":
+    print(num1 - num2)
+elif op == "/":
+    print(num1 /num2)
+elif op == "*":
+    print(num1 * num2)
+else:
+    print("error")
+-----------------------------------output/below
+Enter first number:   5
+Enter operater:   *
+Enter second number:   6
+30.0
+if you put wrong operater like ^ $ through error
