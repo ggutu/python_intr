@@ -1,0 +1,10 @@
+
+# dictionaries store key value
+monthConversions = {
+    "Jan": "January",
+    "Feb": "February",
+    "Mar": "March",
+    "Ap": "Aprile"
+}
+print(monthConversions["Feb"])
+print(monthConversions["Jan"])
