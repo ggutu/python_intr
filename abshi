@@ -10,3 +10,8 @@ print("Words:", words)
 my job to take arn (amazon resource name)
 arn 's use er name 
 python 
+=============
+arn= "aws:iam::123456789012:user/johndoe"
+print(arn.split("/")[1])
+==================================output  johndoe give arn and print username
+
