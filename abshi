@@ -2,3 +2,11 @@ python in built functions when ever you write programing are there in built func
 eg string.splt("')
 python have in built for for loop,numeric,string sequence ,python has inbuilt function.
 always lear writing python in built functions
+===============
+text = "Python is awesome"
+words = text.split()
+print("Words:", words)
+
+my job to take arn (amazon resource name)
+arn 's use er name 
+python 
