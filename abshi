@@ -61,3 +61,13 @@ by writing one python file we can use
 eg jira ---Get jira 
 advantage module is Reusability
 module is group of function 
+---
+can i use entire module as it is ? yes here is the example to call advance_calc
+import advance_calc as basic_cal
+basic_cal
+
+can i use part of module  ? yes here is the example to call advance_call only addition part from calculoter
+eg
+import advance_calc as basic_cal
+basic_cal.add()
+
