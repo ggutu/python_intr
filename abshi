@@ -14,7 +14,8 @@ python
 arn= "aws:iam::123456789012:user/johndoe"
 print(arn.split("/")[1])
 ==================================output  johndoe give arn and print username
-
+Local Scope: Variables defined within a function have local scope and are only accessible inside that function.[c]
+Global Scope: Variables defined outside of any function have global scope and can be accessed throughout the entire code.[a,b]
 a = 2
 b = 4
 def addition():
