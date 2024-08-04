@@ -40,3 +40,10 @@ when you write code using function
 1.readability 
 2.reusability(modularity)
 3.debugging
+advantage 
+def nameOfFunction():
+    1
+    2
+    3
+    print()
+nameOffFunction()
