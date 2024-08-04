@@ -26,3 +26,12 @@ def sub():
 sub()--------------2
 addition()--------------11
 =================================
+Naming convention variable always important, define variable in lower case
+1.lower case
+eg name "Gutu
+   Name "Hawi"
+print(name)
+print(Name) XXXXXXX wrong 
+2. ec2instance not best practice
+ec2_instance
+
