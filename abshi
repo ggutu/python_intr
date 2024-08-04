@@ -33,5 +33,5 @@ eg name "Gutu
 print(name)
 print(Name) XXXXXXX wrong 
 2. ec2instance not best practice
-ec2_instance
-
+ec2_instance   
+3. name as full descriptive 
