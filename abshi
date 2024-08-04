@@ -15,3 +15,13 @@ arn= "aws:iam::123456789012:user/johndoe"
 print(arn.split("/")[1])
 ==================================output  johndoe give arn and print username
 
+a = 2
+b = 4
+def addition():
+    c = 5
+    print(a + b  + c)
+def sub():
+    print(a - b)
+sub()--------------2
+addition()--------------11
+=================================
