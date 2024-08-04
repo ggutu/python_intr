@@ -55,3 +55,9 @@ def ec2():
      --
      --
 or use  create jira ticket
+=============================
+modules ---modular approach ---if you write piece code project 1 can be used this piece code used project 2 3 4
+by writing one python file we can use 
+eg jira ---Get jira 
+advantage module is Reusability
+module is group of function 
