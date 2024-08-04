@@ -35,3 +35,8 @@ print(Name) XXXXXXX wrong
 2. ec2instance not best practice
 ec2_instance   
 3. name as full descriptive 
+============================
+when you write code using function
+1.readability 
+2.reusability(modularity)
+3.debugging
