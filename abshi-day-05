@@ -5,4 +5,9 @@ there is module come with python installation.
 sys.argv[1]
 module use to read command line argument is sys
 
+==========================
+concept of enviroment variable
+import os   --------------------------call module from python liberaries   #this need to written on the #export apitoken="gutu"
+print(os.getenv("password"))              #export password="miran123"
+print(os.getenv("apitoken"))              #export apitoken="gutu"
 
