@@ -70,4 +70,24 @@ can i use part of module  ? yes here is the example to call advance_call only ad
 eg
 import advance_calc as basic_cal
 basic_cal.add()
+return  calculater
+==============
+def addition(num1,num2):
+    a= num1 + num2
+    return a
+print(addition(5,90))
+def sub(num1,num2):
+    s = num1 - num2
+    return s
+print(sub(10,7))
+def mul(num1,num2):  #defination
+    m = num1*num2    #input 
+    return m         # return
+print(mul(8,5))
 
+# Function 
+# input
+# return output
+#       input
+#       perform the the operation
+#       return the output
