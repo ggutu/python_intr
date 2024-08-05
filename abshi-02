@@ -91,12 +91,22 @@ print(mul(8,5))
 #       input
 #       perform the the operation
 #       return the output
-pipe i
+===========
+pipe install boto3
+pip list, to see 
+
+
 vitual enviroment
 ====================
-use the same machine and different project
+project 1 -->v1.2.3
+project2--->1.5.6
+how you satisfies all of them 
+use the same machine and different project.you will do logical separation.
 eg.if two or more version of jira used for two more  different project .
 no need to create more ec2 instance .create one ec2 instance and virtual enviroment
 virtual enviroment will do logical separations.
 inside machine you can switch to require  virtual enviroment.
 command to install virtual enviroment.
+steps:
+pip install virtualenv   ---------------install vertual environment  
+source project-abc/bin/activate ---activate the virual environment 
