@@ -2,3 +2,7 @@ how to remember for loop syntax
 [vara]=any variable
 sequence used list ,tuple ,range etc
 for [var] in sequence: 
+
+
+while Loop
+The "while" loop continues to execute a block of code as long as a specified condition is true. It's often used when you don't know in advance how many times the loop should run
