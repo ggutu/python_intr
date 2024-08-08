@@ -1,1 +1,10 @@
-read input from user
+list all the files in list folder and user provide
+Input--list of folders["/tmp" ,"/abc"]
+output___ --
+steps
+1.How to read Read input from user(folder)
+2.for loop,flder --list files
+3.Identify module
+4.print file
+5.handle any know error
+
